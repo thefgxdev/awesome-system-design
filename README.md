@@ -67,4 +67,4 @@ Lista curada de recursos para se aprofundar em System Design, com uma linha sobr
 
 ## License
 
-CC0 for the list itself. Each linked resource keeps its own license.
+Apache-2.0 for the list and its commentary. Copyright (c) 2026 Felipe Guedes (fgxdev.com). Each linked resource keeps its own license.
